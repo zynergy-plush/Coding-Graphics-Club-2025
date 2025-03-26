@@ -13,3 +13,7 @@ To directly start from a certain web-page, follow these:
 4. Competitions - competitions.html
 5. Resources - resources.html
 6. Credits - credits.html
+
+Updates:
+26/03/2025:
+Rebranded Website as "Coding and Graphics Club" instead of "CGC Showcase".
