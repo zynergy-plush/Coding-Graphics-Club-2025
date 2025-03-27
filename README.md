@@ -17,3 +17,9 @@ To directly start from a certain web-page, follow these:
 Updates:
 26/03/2025:
 Rebranded Website as "Coding and Graphics Club" instead of "CGC Showcase".
+
+27/03/2025:
+Fixed bugs:
+
+1. Fixed rogue links
+2. Deleted unused content
