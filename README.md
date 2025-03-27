@@ -23,3 +23,4 @@ Fixed bugs:
 
 1. Fixed rogue links
 2. Deleted unused content
+3. Fixed delay from splash-screen.js
