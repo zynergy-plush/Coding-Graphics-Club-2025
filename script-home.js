@@ -1,5 +1,5 @@
 var typed = new Typed(".multiple-text", {
-    strings: ["CGC Showcase - 2025"],
+    strings: ["Where ideas turn into code"],
     typeSpeed: 50,
     backSpeed: 100,
     backDelay: 1000,
